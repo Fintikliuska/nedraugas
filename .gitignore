@@ -7,3 +7,6 @@ target/
 
 # ignore all files ending with ~
 *~ 
+# desable commits for eclipse settings
+.classpath
+.settings
